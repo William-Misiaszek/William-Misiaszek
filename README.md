@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-Misiaszek
-- 👀 I’m interested React Native and Ruby on Rails frameworks
+- 👀 I’m interested in React Native and Ruby on Rails frameworks. New Outlet Projects (Front-End Web Properties).
 - 🌱 I’m currently learning JS + Ruby w/ an emphasis on back-end infrastructure.
 - 💞️ I’m looking to collaborate on projects with talented individuals. Coffee Chats are 🔥.
 - 📫 How to reach me: williamfrancisisnice@gmail.com -> Likely move to text/call.
