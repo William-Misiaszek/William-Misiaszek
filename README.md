@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @William-Misiaszek
-- 🌱 I know Swift, JS, Ruby, and Python atm.
+- 👋 Hi, I’m @William-Misiaszek & and I work at Stanford.
 - 🤖 Exploring AI Hackathons in SF
 - 🍞 Lets get Coffee at The Mill. 
 
